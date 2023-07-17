@@ -22,6 +22,6 @@ HOW TO START THIS PROJECT: Use BlueJ Environment to open project named "package.
 
 AUTHOR: Gusev Roman
 
-USER INSTRUCTIONS: you will need two libraries, "edu.duke.*" (simplified
+USER INSTRUCTIONS: you will need two libraries, "edu.duke.*\" (simplified
                    version of different functions from Java) and
-                   "org.apache.commons.csv.*" (CSV Parser)
+                   "org.apache.commons.csv.\*" (CSV Parser)
